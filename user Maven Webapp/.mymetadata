@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="user Maven Webapp"
+  id="myeclipse.1477017125331"
+  context-root="/user"
+  j2ee-spec="6.0"
+  archive="user Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
